@@ -15,7 +15,7 @@
     "apollo-datasource-rest": "^0.1.5",
     "apollo-server": "2.6.1",
     "apollo-server-testing": "2.6.1",
-    "aws-sdk": "^2.585.0",
+    "aws-sdk": "^2.814.0",
     "dotenv": "^6.2.0",
     "graphql": "^14.5.8",
     "mime": "^2.4.4",
